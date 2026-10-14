@@ -5,7 +5,6 @@ on:
     # Run every day at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
-    # Allow manual trigger from GitHub Actions UI
     inputs:
       limit:
         description: "Max repositories per topic"
@@ -17,9 +16,13 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  scan-and-deploy:
-    name: Scan Trends & Deploy Dashboard
+  scan:
+    name: Scan Trends & Prepare Pages
     runs-on: ubuntu-latest
 
     steps:
@@ -46,7 +49,7 @@ jobs:
         run: |
           python -m trendradar export --all --output TRENDS.md --limit ${{ github.event.inputs.limit || '15' }}
 
-      - name: Commit updated TRENDS.md
+      - name: Commit updated TRENDS.md and docs/
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -54,23 +57,20 @@ jobs:
           git diff --staged --quiet || git commit -m "📡 Auto-update: Daily trend scan $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages
-        continue-on-error: true
-
-  # Separate job to upload pages artifact
-  upload-pages:
-    name: Upload Pages Artifact
-    runs-on: ubuntu-latest
-    needs: scan-and-deploy
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/
+
+  deploy:
+    name: Deploy to GitHub Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: scan
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
