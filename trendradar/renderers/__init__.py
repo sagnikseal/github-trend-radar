@@ -1,0 +1,1 @@
+"""trendradar/renderers package."""
