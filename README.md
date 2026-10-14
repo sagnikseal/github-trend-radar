@@ -9,7 +9,7 @@
 
 GitHub Trend Radar scans GitHub in real time, calculates **star velocity** (stars/day weighted by fork engagement), classifies repositories into momentum tiers, and generates actionable personal project blueprints aligned with the highest-demand niches.
 
-🌐 **[Live Dashboard →](https://YOUR_USERNAME.github.io/github-trend-radar/)**
+🌐 **[Live Dashboard →](https://sagnikseal.github.io/github-trend-radar/)**
 📊 **[Latest Trends Report →](TRENDS.md)**
 
 ---
@@ -34,7 +34,7 @@ GitHub Trend Radar scans GitHub in real time, calculates **star velocity** (star
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-trend-radar.git
+git clone https://github.com/sagnikseal/github-trend-radar.git
 cd github-trend-radar
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -99,7 +99,7 @@ Go to your repository → **Settings → Pages → Source: GitHub Actions**
 Go to **Settings → Secrets → Actions → New secret**:
 - Name: `GITHUB_TOKEN` (already provided automatically by GitHub)
 
-Your dashboard will be live at `https://YOUR_USERNAME.github.io/github-trend-radar/` and auto-updated nightly.
+Your dashboard will be live at `https://sagnikseal.github.io/github-trend-radar/` and auto-updated nightly.
 
 ---
 

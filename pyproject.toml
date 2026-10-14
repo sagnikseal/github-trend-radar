@@ -37,9 +37,9 @@ dev = [
 trendradar = "trendradar.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/github-trend-radar"
-Repository = "https://github.com/YOUR_USERNAME/github-trend-radar"
-Issues = "https://github.com/YOUR_USERNAME/github-trend-radar/issues"
+Homepage = "https://github.com/sagnikseal/github-trend-radar"
+Repository = "https://github.com/sagnikseal/github-trend-radar"
+Issues = "https://github.com/sagnikseal/github-trend-radar/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
