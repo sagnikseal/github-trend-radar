@@ -1,29 +1,99 @@
 {
-  "generated_at": "2026-10-14T18:35:05.731511",
+  "generated_at": "2026-10-14T18:40:03.327049",
   "reports": [
     {
       "topic": "mcp",
-      "total_scanned": 5,
+      "total_scanned": 15,
       "repositories": [
         {
           "name": "morluto/rea",
           "url": "https://github.com/morluto/rea",
-          "stars": 236338,
-          "forks": 58960,
-          "stars_per_day": 1286.27,
-          "velocity_score": 1607.16,
+          "stars": 236417,
+          "forks": 58973,
+          "stars_per_day": 1286.68,
+          "velocity_score": 1607.63,
           "tier": "\ud83d\ude80 BREAKING",
           "language": "TypeScript"
         },
         {
           "name": "affaan-m/ECC",
           "url": "https://github.com/affaan-m/ECC",
-          "stars": 279227,
-          "forks": 41552,
-          "stars_per_day": 1035.18,
+          "stars": 279229,
+          "forks": 41553,
+          "stars_per_day": 1035.17,
           "velocity_score": 1189.22,
           "tier": "\ud83d\ude80 BREAKING",
           "language": "JavaScript"
+        },
+        {
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "stars": 126455,
+          "forks": 12203,
+          "stars_per_day": 651.43,
+          "velocity_score": 714.29,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "stars": 102046,
+          "forks": 17096,
+          "stars_per_day": 451.23,
+          "velocity_score": 526.82,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "stars": 97302,
+          "forks": 8517,
+          "stars_per_day": 418.17,
+          "velocity_score": 454.77,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "stars": 88443,
+          "forks": 13531,
+          "stars_per_day": 316.94,
+          "velocity_score": 365.43,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "stars": 144240,
+          "forks": 9570,
+          "stars_per_day": 330.69,
+          "velocity_score": 352.63,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Rust"
+        },
+        {
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "stars": 96334,
+          "forks": 17600,
+          "stars_per_day": 140.93,
+          "velocity_score": 166.67,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": null
+        },
+        {
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "stars": 155666,
+          "forks": 22661,
+          "stars_per_day": 141.02,
+          "velocity_score": 161.55,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
         },
         {
           "name": "langgenius/dify",
@@ -36,12 +106,42 @@
           "language": "TypeScript"
         },
         {
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "stars": 87543,
+          "forks": 8993,
+          "stars_per_day": 119.77,
+          "velocity_score": 132.07,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "stars": 85534,
+          "forks": 8879,
+          "stars_per_day": 96.28,
+          "velocity_score": 106.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
           "name": "n8n-io/n8n",
           "url": "https://github.com/n8n-io/n8n",
           "stars": 207371,
           "forks": 61115,
           "stars_per_day": 77.63,
           "velocity_score": 100.5,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "stars": 83233,
+          "forks": 15983,
+          "stars_per_day": 66.99,
+          "velocity_score": 79.85,
           "tier": "\u26a1 HIGH VELOCITY",
           "language": "TypeScript"
         },
@@ -54,6 +154,1410 @@
           "velocity_score": 66.56,
           "tier": "\u26a1 HIGH VELOCITY",
           "language": "JavaScript"
+        }
+      ]
+    },
+    {
+      "topic": "ai-agent",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "stars": 253732,
+          "forks": 55036,
+          "stars_per_day": 565.3,
+          "velocity_score": 687.92,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "stars": 74533,
+          "forks": 13973,
+          "stars_per_day": 386.16,
+          "velocity_score": 458.55,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "stars": 97302,
+          "forks": 8517,
+          "stars_per_day": 418.17,
+          "velocity_score": 454.77,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "stars": 66352,
+          "forks": 55235,
+          "stars_per_day": 239.11,
+          "velocity_score": 438.15,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "stars": 49027,
+          "forks": 8629,
+          "stars_per_day": 191.91,
+          "velocity_score": 225.68,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "stars": 62020,
+          "forks": 4913,
+          "stars_per_day": 201.04,
+          "velocity_score": 216.97,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "stars": 35796,
+          "forks": 2453,
+          "stars_per_day": 202.9,
+          "velocity_score": 216.8,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Go"
+        },
+        {
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "stars": 78586,
+          "forks": 12578,
+          "stars_per_day": 166.45,
+          "velocity_score": 193.09,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "codewhale-hq/Codewhale",
+          "url": "https://github.com/codewhale-hq/Codewhale",
+          "stars": 41089,
+          "forks": 3569,
+          "stars_per_day": 153.31,
+          "velocity_score": 166.63,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Rust"
+        },
+        {
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "stars": 54221,
+          "forks": 6168,
+          "stars_per_day": 135.33,
+          "velocity_score": 150.72,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "stars": 52639,
+          "forks": 5073,
+          "stars_per_day": 60.25,
+          "velocity_score": 66.05,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "zhayujie/CowAgent",
+          "url": "https://github.com/zhayujie/CowAgent",
+          "stars": 47401,
+          "forks": 10393,
+          "stars_per_day": 30.99,
+          "velocity_score": 37.79,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "stars": 38011,
+          "forks": 4732,
+          "stars_per_day": 31.32,
+          "velocity_score": 35.22,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "thedaviddias/Front-End-Checklist",
+          "url": "https://github.com/thedaviddias/Front-End-Checklist",
+          "stars": 74458,
+          "forks": 6759,
+          "stars_per_day": 22.66,
+          "velocity_score": 24.72,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "MDX"
+        },
+        {
+          "name": "siyuan-note/siyuan",
+          "url": "https://github.com/siyuan-note/siyuan",
+          "stars": 46772,
+          "forks": 3064,
+          "stars_per_day": 20.91,
+          "velocity_score": 22.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        }
+      ]
+    },
+    {
+      "topic": "browser-use",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "stars": 117977,
+          "forks": 13070,
+          "stars_per_day": 165.44,
+          "velocity_score": 183.77,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "jackwener/OpenCLI",
+          "url": "https://github.com/jackwener/OpenCLI",
+          "stars": 30270,
+          "forks": 2964,
+          "stars_per_day": 141.55,
+          "velocity_score": 155.4,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "browser-use/browser-harness",
+          "url": "https://github.com/browser-use/browser-harness",
+          "stars": 18433,
+          "forks": 1819,
+          "stars_per_day": 102.01,
+          "velocity_score": 112.08,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "stars": 8870,
+          "forks": 638,
+          "stars_per_day": 77.49,
+          "velocity_score": 83.06,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "stars": 39276,
+          "forks": 3986,
+          "stars_per_day": 62.01,
+          "velocity_score": 68.3,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "agentrhq/webcmd",
+          "url": "https://github.com/agentrhq/webcmd",
+          "stars": 2709,
+          "forks": 1544,
+          "stars_per_day": 25.98,
+          "velocity_score": 40.78,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "nanobrowser/nanobrowser",
+          "url": "https://github.com/nanobrowser/nanobrowser",
+          "stars": 14088,
+          "forks": 1502,
+          "stars_per_day": 21.59,
+          "velocity_score": 23.89,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "microsoft/magentic-ui",
+          "url": "https://github.com/microsoft/magentic-ui",
+          "stars": 10095,
+          "forks": 1020,
+          "stars_per_day": 19.16,
+          "velocity_score": 21.09,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "web-infra-dev/midscene",
+          "url": "https://github.com/web-infra-dev/midscene",
+          "stars": 15261,
+          "forks": 1197,
+          "stars_per_day": 18.76,
+          "velocity_score": 20.23,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "microsoft/fara",
+          "url": "https://github.com/microsoft/fara",
+          "stars": 6217,
+          "forks": 605,
+          "stars_per_day": 17.76,
+          "velocity_score": 19.49,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "Tongyi-MAI/MAI-UI",
+          "url": "https://github.com/Tongyi-MAI/MAI-UI",
+          "stars": 2395,
+          "forks": 221,
+          "stars_per_day": 7.89,
+          "velocity_score": 8.62,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Jupyter Notebook"
+        },
+        {
+          "name": "minitap-ai/mobile-use",
+          "url": "https://github.com/minitap-ai/mobile-use",
+          "stars": 3259,
+          "forks": 296,
+          "stars_per_day": 7.69,
+          "velocity_score": 8.39,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "TurixAI/TuriX-CUA",
+          "url": "https://github.com/TurixAI/TuriX-CUA",
+          "stars": 3171,
+          "forks": 331,
+          "stars_per_day": 7.27,
+          "velocity_score": 8.02,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "browserable/browserable",
+          "url": "https://github.com/browserable/browserable",
+          "stars": 1209,
+          "forks": 105,
+          "stars_per_day": 2.18,
+          "velocity_score": 2.37,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "JavaScript"
+        },
+        {
+          "name": "AIPexStudio/AIPex",
+          "url": "https://github.com/AIPexStudio/AIPex",
+          "stars": 1267,
+          "forks": 138,
+          "stars_per_day": 1.62,
+          "velocity_score": 1.79,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "TypeScript"
+        }
+      ]
+    },
+    {
+      "topic": "llm",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "stars": 236418,
+          "forks": 58973,
+          "stars_per_day": 1286.68,
+          "velocity_score": 1607.64,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "stars": 163418,
+          "forks": 8809,
+          "stars_per_day": 1310.06,
+          "velocity_score": 1380.67,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "stars": 279229,
+          "forks": 41553,
+          "stars_per_day": 1035.17,
+          "velocity_score": 1189.22,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "stars": 126455,
+          "forks": 12203,
+          "stars_per_day": 651.43,
+          "velocity_score": 714.29,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "stars": 253732,
+          "forks": 55036,
+          "stars_per_day": 565.3,
+          "velocity_score": 687.92,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "stars": 191503,
+          "forks": 10126,
+          "stars_per_day": 210.0,
+          "velocity_score": 221.11,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "stars": 117977,
+          "forks": 13070,
+          "stars_per_day": 165.44,
+          "velocity_score": 183.77,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "stars": 187572,
+          "forks": 45920,
+          "stars_per_day": 143.36,
+          "velocity_score": 178.46,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "ollama/ollama",
+          "url": "https://github.com/ollama/ollama",
+          "stars": 183156,
+          "forks": 18272,
+          "stars_per_day": 151.88,
+          "velocity_score": 167.03,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Go"
+        },
+        {
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "stars": 155666,
+          "forks": 22661,
+          "stars_per_day": 141.02,
+          "velocity_score": 161.55,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "stars": 130836,
+          "forks": 20555,
+          "stars_per_day": 138.06,
+          "velocity_score": 159.75,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "stars": 158466,
+          "forks": 25037,
+          "stars_per_day": 123.66,
+          "velocity_score": 143.2,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "stars": 172967,
+          "forks": 22139,
+          "stars_per_day": 122.74,
+          "velocity_score": 138.45,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "HTML"
+        },
+        {
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "stars": 147813,
+          "forks": 24796,
+          "stars_per_day": 101.34,
+          "velocity_score": 118.33,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "stars": 167679,
+          "forks": 34864,
+          "stars_per_day": 57.68,
+          "velocity_score": 69.67,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        }
+      ]
+    },
+    {
+      "topic": "local-ai",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "mizorewww/laya-mlx",
+          "url": "https://github.com/mizorewww/laya-mlx",
+          "stars": 6928,
+          "forks": 561,
+          "stars_per_day": 274.91,
+          "velocity_score": 297.17,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "drumih/turbo-fieldfare",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "stars": 6930,
+          "forks": 445,
+          "stars_per_day": 77.77,
+          "velocity_score": 82.76,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Swift"
+        },
+        {
+          "name": "Mintplex-Labs/anything-llm",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "stars": 67071,
+          "forks": 7495,
+          "stars_per_day": 54.59,
+          "velocity_score": 60.69,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "JavaScript"
+        },
+        {
+          "name": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "stars": 31739,
+          "forks": 3488,
+          "stars_per_day": 48.29,
+          "velocity_score": 53.6,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Rust"
+        },
+        {
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "stars": 9005,
+          "forks": 1461,
+          "stars_per_day": 38.11,
+          "velocity_score": 44.29,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "stars": 7507,
+          "forks": 1052,
+          "stars_per_day": 30.36,
+          "velocity_score": 34.62,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "screenpipe/screenpipe",
+          "url": "https://github.com/screenpipe/screenpipe",
+          "stars": 21938,
+          "forks": 2243,
+          "stars_per_day": 25.89,
+          "velocity_score": 28.54,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Rust"
+        },
+        {
+          "name": "mozilla-ai/llamafile",
+          "url": "https://github.com/mozilla-ai/llamafile",
+          "stars": 26240,
+          "forks": 1655,
+          "stars_per_day": 23.22,
+          "velocity_score": 24.69,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "C++"
+        },
+        {
+          "name": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "stars": 3978,
+          "forks": 432,
+          "stars_per_day": 17.17,
+          "velocity_score": 19.03,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "Michael-A-Kuykendall/shimmy",
+          "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+          "stars": 5976,
+          "forks": 585,
+          "stars_per_day": 14.51,
+          "velocity_score": 15.93,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Rust"
+        },
+        {
+          "name": "qualcomm/GenieX",
+          "url": "https://github.com/qualcomm/GenieX",
+          "stars": 8436,
+          "forks": 1070,
+          "stars_per_day": 10.69,
+          "velocity_score": 12.05,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Rust"
+        },
+        {
+          "name": "Blaizzy/mlx-vlm",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "stars": 5621,
+          "forks": 831,
+          "stars_per_day": 6.17,
+          "velocity_score": 7.08,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "beclab/Olares",
+          "url": "https://github.com/beclab/Olares",
+          "stars": 5309,
+          "forks": 332,
+          "stars_per_day": 5.91,
+          "velocity_score": 6.28,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Go"
+        },
+        {
+          "name": "twinnydotdev/twinny",
+          "url": "https://github.com/twinnydotdev/twinny",
+          "stars": 3670,
+          "forks": 231,
+          "stars_per_day": 3.19,
+          "velocity_score": 3.39,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "TheJoeFin/Text-Grab",
+          "url": "https://github.com/TheJoeFin/Text-Grab",
+          "stars": 5042,
+          "forks": 331,
+          "stars_per_day": 2.35,
+          "velocity_score": 2.51,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "C#"
+        }
+      ]
+    },
+    {
+      "topic": "rag",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "stars": 126455,
+          "forks": 12203,
+          "stars_per_day": 651.43,
+          "velocity_score": 714.29,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "stars": 75350,
+          "forks": 5847,
+          "stars_per_day": 269.16,
+          "velocity_score": 290.05,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "stars": 100709,
+          "forks": 8825,
+          "stars_per_day": 246.29,
+          "velocity_score": 267.87,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "stars": 83117,
+          "forks": 10303,
+          "stars_per_day": 206.57,
+          "velocity_score": 232.18,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "stars": 141717,
+          "forks": 20831,
+          "stars_per_day": 157.72,
+          "velocity_score": 180.9,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "stars": 155666,
+          "forks": 22661,
+          "stars_per_day": 141.02,
+          "velocity_score": 161.55,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "stars": 147813,
+          "forks": 24796,
+          "stars_per_day": 101.34,
+          "velocity_score": 118.33,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "stars": 85534,
+          "forks": 8879,
+          "stars_per_day": 96.28,
+          "velocity_score": 106.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "stars": 92216,
+          "forks": 10986,
+          "stars_per_day": 88.88,
+          "velocity_score": 99.47,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Go"
+        },
+        {
+          "name": "dair-ai/Prompt-Engineering-Guide",
+          "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+          "stars": 79169,
+          "forks": 8695,
+          "stars_per_day": 56.63,
+          "velocity_score": 62.84,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "MDX"
+        },
+        {
+          "name": "FlowiseAI/Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "stars": 55503,
+          "forks": 25062,
+          "stars_per_day": 42.92,
+          "velocity_score": 62.3,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "stars": 67188,
+          "forks": 7907,
+          "stars_per_day": 55.42,
+          "velocity_score": 61.94,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "Mintplex-Labs/anything-llm",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "stars": 67071,
+          "forks": 7495,
+          "stars_per_day": 54.59,
+          "velocity_score": 60.69,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "JavaScript"
+        },
+        {
+          "name": "pathwaycom/serviette",
+          "url": "https://github.com/pathwaycom/serviette",
+          "stars": 58788,
+          "forks": 1508,
+          "stars_per_day": 49.68,
+          "velocity_score": 50.95,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Jupyter Notebook"
+        },
+        {
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "stars": 91108,
+          "forks": 11487,
+          "stars_per_day": 38.76,
+          "velocity_score": 43.65,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        }
+      ]
+    },
+    {
+      "topic": "self-hosted",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "stars": 49027,
+          "forks": 8629,
+          "stars_per_day": 191.91,
+          "velocity_score": 225.68,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "stars": 155666,
+          "forks": 22661,
+          "stars_per_day": 141.02,
+          "velocity_score": 161.55,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "stars": 207371,
+          "forks": 61115,
+          "stars_per_day": 77.63,
+          "velocity_score": 100.5,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "awesome-selfhosted/awesome-selfhosted",
+          "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "stars": 326555,
+          "forks": 15298,
+          "stars_per_day": 78.62,
+          "velocity_score": 82.3,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": null
+        },
+        {
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "stars": 78001,
+          "forks": 7203,
+          "stars_per_day": 74.28,
+          "velocity_score": 81.14,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "stars": 94198,
+          "forks": 11415,
+          "stars_per_day": 69.47,
+          "velocity_score": 77.88,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "stars": 116235,
+          "forks": 7220,
+          "stars_per_day": 67.81,
+          "velocity_score": 72.02,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "stars": 92459,
+          "forks": 8556,
+          "stars_per_day": 47.91,
+          "velocity_score": 52.35,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "JavaScript"
+        },
+        {
+          "name": "usememos/memos",
+          "url": "https://github.com/usememos/memos",
+          "stars": 63790,
+          "forks": 4862,
+          "stars_per_day": 36.02,
+          "velocity_score": 38.76,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Go"
+        },
+        {
+          "name": "coollabsio/coolify",
+          "url": "https://github.com/coollabsio/coolify",
+          "stars": 62977,
+          "forks": 5656,
+          "stars_per_day": 30.16,
+          "velocity_score": 32.87,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "PHP"
+        },
+        {
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "stars": 57683,
+          "forks": 5790,
+          "stars_per_day": 21.01,
+          "velocity_score": 23.11,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "siyuan-note/siyuan",
+          "url": "https://github.com/siyuan-note/siyuan",
+          "stars": 46772,
+          "forks": 3064,
+          "stars_per_day": 20.91,
+          "velocity_score": 22.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "go-gitea/gitea",
+          "url": "https://github.com/go-gitea/gitea",
+          "stars": 58500,
+          "forks": 7264,
+          "stars_per_day": 16.09,
+          "velocity_score": 18.09,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Go"
+        },
+        {
+          "name": "ClickHouse/ClickHouse",
+          "url": "https://github.com/ClickHouse/ClickHouse",
+          "stars": 50416,
+          "forks": 9103,
+          "stars_per_day": 13.31,
+          "velocity_score": 15.72,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "C++"
+        },
+        {
+          "name": "gogs/gogs",
+          "url": "https://github.com/gogs/gogs",
+          "stars": 47866,
+          "forks": 5077,
+          "stars_per_day": 10.34,
+          "velocity_score": 11.44,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Go"
+        }
+      ]
+    },
+    {
+      "topic": "developer-tools",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "stars": 236420,
+          "forks": 58973,
+          "stars_per_day": 1286.7,
+          "velocity_score": 1607.65,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "stars": 163418,
+          "forks": 8809,
+          "stars_per_day": 1310.06,
+          "velocity_score": 1380.67,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "stars": 279229,
+          "forks": 41553,
+          "stars_per_day": 1035.17,
+          "velocity_score": 1189.22,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "stars": 126455,
+          "forks": 12203,
+          "stars_per_day": 651.43,
+          "velocity_score": 714.29,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "stars": 83458,
+          "forks": 5644,
+          "stars_per_day": 457.18,
+          "velocity_score": 488.1,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "stars": 57092,
+          "forks": 3280,
+          "stars_per_day": 370.93,
+          "velocity_score": 392.24,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "stars": 83351,
+          "forks": 5292,
+          "stars_per_day": 314.44,
+          "velocity_score": 334.41,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Rust"
+        },
+        {
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "stars": 77106,
+          "forks": 9097,
+          "stars_per_day": 212.72,
+          "velocity_score": 237.82,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills",
+          "stars": 47600,
+          "forks": 6942,
+          "stars_per_day": 174.34,
+          "velocity_score": 199.76,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "stars": 90898,
+          "forks": 12048,
+          "stars_per_day": 96.12,
+          "velocity_score": 108.86,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "daytonaio/daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "stars": 71549,
+          "forks": 5646,
+          "stars_per_day": 72.9,
+          "velocity_score": 78.66,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": null
+        },
+        {
+          "name": "hoppscotch/hoppscotch",
+          "url": "https://github.com/hoppscotch/hoppscotch",
+          "stars": 80626,
+          "forks": 6165,
+          "stars_per_day": 30.88,
+          "velocity_score": 33.24,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "stars": 95694,
+          "forks": 9590,
+          "stars_per_day": 27.78,
+          "velocity_score": 30.56,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "localstack/localstack",
+          "url": "https://github.com/localstack/localstack",
+          "stars": 65141,
+          "forks": 4805,
+          "stars_per_day": 17.89,
+          "velocity_score": 19.21,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "GitHubDaily/GitHubDaily",
+          "url": "https://github.com/GitHubDaily/GitHubDaily",
+          "stars": 48183,
+          "forks": 4709,
+          "stars_per_day": 16.93,
+          "velocity_score": 18.59,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": null
+        }
+      ]
+    },
+    {
+      "topic": "autonomous-agent",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+          "stars": 17476,
+          "forks": 1470,
+          "stars_per_day": 79.99,
+          "velocity_score": 86.72,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "stars": 14313,
+          "forks": 1663,
+          "stars_per_day": 52.79,
+          "velocity_score": 58.93,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "fuxicodex/Fuxi",
+          "url": "https://github.com/fuxicodex/Fuxi",
+          "stars": 3341,
+          "forks": 228,
+          "stars_per_day": 46.75,
+          "velocity_score": 49.94,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "AntonOsika/gpt-engineer",
+          "url": "https://github.com/AntonOsika/gpt-engineer",
+          "stars": 55024,
+          "forks": 7278,
+          "stars_per_day": 43.52,
+          "velocity_score": 49.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "stars": 8684,
+          "forks": 842,
+          "stars_per_day": 33.98,
+          "velocity_score": 37.28,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "JavaScript"
+        },
+        {
+          "name": "uditgoenka/autoresearch",
+          "url": "https://github.com/uditgoenka/autoresearch",
+          "stars": 6574,
+          "forks": 484,
+          "stars_per_day": 30.55,
+          "velocity_score": 32.8,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Shell"
+        },
+        {
+          "name": "leo-lilinxiao/codex-autoresearch",
+          "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+          "stars": 2914,
+          "forks": 132,
+          "stars_per_day": 13.83,
+          "velocity_score": 14.46,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "skalesapp/skales",
+          "url": "https://github.com/skalesapp/skales",
+          "stars": 2158,
+          "forks": 296,
+          "stars_per_day": 9.79,
+          "velocity_score": 11.13,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": null
+        },
+        {
+          "name": "Upsonic/Upsonic",
+          "url": "https://github.com/Upsonic/Upsonic",
+          "stars": 7958,
+          "forks": 747,
+          "stars_per_day": 9.14,
+          "velocity_score": 9.99,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "Dryxio/reagent",
+          "url": "https://github.com/Dryxio/reagent",
+          "stars": 2091,
+          "forks": 214,
+          "stars_per_day": 8.75,
+          "velocity_score": 9.64,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "razzant/ouroboros",
+          "url": "https://github.com/razzant/ouroboros",
+          "stars": 1516,
+          "forks": 670,
+          "stars_per_day": 6.19,
+          "velocity_score": 8.93,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
+        },
+        {
+          "name": "moltlaunch/cashclaw",
+          "url": "https://github.com/moltlaunch/cashclaw",
+          "stars": 1225,
+          "forks": 228,
+          "stars_per_day": 5.6,
+          "velocity_score": 6.64,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "grinev/opencode-telegram-bot",
+          "url": "https://github.com/grinev/opencode-telegram-bot",
+          "stars": 1254,
+          "forks": 228,
+          "stars_per_day": 5.07,
+          "velocity_score": 5.99,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "stakpak/agent",
+          "url": "https://github.com/stakpak/agent",
+          "stars": 1823,
+          "forks": 197,
+          "stars_per_day": 2.71,
+          "velocity_score": 3.0,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "Rust"
+        },
+        {
+          "name": "szczyglis-dev/py-gpt",
+          "url": "https://github.com/szczyglis-dev/py-gpt",
+          "stars": 1989,
+          "forks": 352,
+          "stars_per_day": 1.55,
+          "velocity_score": 1.82,
+          "tier": "\u27a1\ufe0f  STEADY",
+          "language": "Python"
+        }
+      ]
+    },
+    {
+      "topic": "langchain",
+      "total_scanned": 15,
+      "repositories": [
+        {
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "stars": 190228,
+          "forks": 14130,
+          "stars_per_day": 271.77,
+          "velocity_score": 291.96,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "stars": 75350,
+          "forks": 5847,
+          "stars_per_day": 269.16,
+          "velocity_score": 290.05,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stars": 83864,
+          "forks": 11684,
+          "stars_per_day": 159.54,
+          "velocity_score": 181.77,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "stars": 147813,
+          "forks": 24796,
+          "stars_per_day": 101.34,
+          "velocity_score": 118.33,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "Python"
+        },
+        {
+          "name": "langchain-ai/deepagents",
+          "url": "https://github.com/langchain-ai/deepagents",
+          "stars": 30262,
+          "forks": 4248,
+          "stars_per_day": 68.19,
+          "velocity_score": 77.76,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "stars": 61254,
+          "forks": 12334,
+          "stars_per_day": 52.1,
+          "velocity_score": 62.59,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "FlowiseAI/Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "stars": 55503,
+          "forks": 25062,
+          "stars_per_day": 42.92,
+          "velocity_score": 62.3,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "stars": 33593,
+          "forks": 2412,
+          "stars_per_day": 52.82,
+          "velocity_score": 56.62,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "MDX"
+        },
+        {
+          "name": "langchain-ai/langgraph",
+          "url": "https://github.com/langchain-ai/langgraph",
+          "stars": 43267,
+          "forks": 7358,
+          "stars_per_day": 37.23,
+          "velocity_score": 43.57,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "stars": 29868,
+          "forks": 3662,
+          "stars_per_day": 36.29,
+          "velocity_score": 40.74,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Jupyter Notebook"
+        },
+        {
+          "name": "NirDiamant/GenAI_Agents",
+          "url": "https://github.com/NirDiamant/GenAI_Agents",
+          "stars": 24587,
+          "forks": 4142,
+          "stars_per_day": 32.14,
+          "velocity_score": 37.56,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Jupyter Notebook"
+        },
+        {
+          "name": "reworkd/AgentGPT",
+          "url": "https://github.com/reworkd/AgentGPT",
+          "stars": 36278,
+          "forks": 9216,
+          "stars_per_day": 28.2,
+          "velocity_score": 35.36,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "chatchat-space/Langchain-Chatchat",
+          "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+          "stars": 38682,
+          "forks": 6257,
+          "stars_per_day": 29.91,
+          "velocity_score": 34.75,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "Python"
+        },
+        {
+          "name": "langfuse/langfuse",
+          "url": "https://github.com/langfuse/langfuse",
+          "stars": 35828,
+          "forks": 3987,
+          "stars_per_day": 28.78,
+          "velocity_score": 31.98,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "stars": 28381,
+          "forks": 6450,
+          "stars_per_day": 9.3,
+          "velocity_score": 11.41,
+          "tier": "\ud83d\udcc8 RISING",
+          "language": "Python"
         }
       ]
     }
