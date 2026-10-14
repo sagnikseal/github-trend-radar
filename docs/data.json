@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-10-14T18:23:35.133346",
+  "reports": [
+    {
+      "topic": "mcp",
+      "total_scanned": 5,
+      "repositories": [
+        {
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "stars": 236108,
+          "forks": 58913,
+          "stars_per_day": 1285.08,
+          "velocity_score": 1605.72,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "stars": 279218,
+          "forks": 41552,
+          "stars_per_day": 1035.17,
+          "velocity_score": 1189.22,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "JavaScript"
+        },
+        {
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "stars": 158465,
+          "forks": 25037,
+          "stars_per_day": 123.66,
+          "velocity_score": 143.2,
+          "tier": "\ud83d\ude80 BREAKING",
+          "language": "TypeScript"
+        },
+        {
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "stars": 207371,
+          "forks": 61114,
+          "stars_per_day": 77.63,
+          "velocity_score": 100.5,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "TypeScript"
+        },
+        {
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "stars": 159022,
+          "forks": 46117,
+          "stars_per_day": 51.59,
+          "velocity_score": 66.56,
+          "tier": "\u26a1 HIGH VELOCITY",
+          "language": "JavaScript"
+        }
+      ]
+    }
+  ]
+}
